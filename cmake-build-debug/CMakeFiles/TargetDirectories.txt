@@ -1,0 +1,11 @@
+/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/CMakeFiles/course.dir
+/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/libs/CMakeFiles/rebuild_cache.dir
+/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/libs/CMakeFiles/edit_cache.dir
+/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/libs/algorithms/CMakeFiles/rebuild_cache.dir
+/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/libs/algorithms/CMakeFiles/edit_cache.dir
+/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/libs/algorithms/CMakeFiles/algorithms.dir
+/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/libs/data_struct/CMakeFiles/rebuild_cache.dir
+/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/libs/data_struct/CMakeFiles/edit_cache.dir
+/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/libs/data_struct/CMakeFiles/data_struct.dir
