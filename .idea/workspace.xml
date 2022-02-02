@@ -14,6 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9891919b-23b9-4836-8ec0-e7d44bfb4ae5" name="Changes" comment="add vector.h/.c">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/data_struct/dsu/vector.c" beforeDir="false" afterPath="$PROJECT_DIR$/libs/data_struct/dsu/vector.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/data_struct/dsu/vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/libs/data_struct/dsu/vector.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
@@ -26,7 +28,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -73,11 +74,6 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.course">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="algorithms" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="course" TARGET_NAME="algorithms" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -114,7 +110,8 @@
       <workItem from="1643706763055" duration="321000" />
       <workItem from="1643726592889" duration="9765000" />
       <workItem from="1643750337580" duration="599000" />
-      <workItem from="1643751402497" duration="2895000" />
+      <workItem from="1643751402497" duration="3554000" />
+      <workItem from="1643793708927" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="add vector.h/.c">
       <created>1643755277243</created>
