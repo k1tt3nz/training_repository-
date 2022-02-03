@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/k1tt3nz/ОП/training_repository-/build",
+  "command": "/usr/bin/cc   -g -std=gnu11 -o CMakeFiles/course.dir/main.c.o -c /home/k1tt3nz/ОП/training_repository-/main.c",
+  "file": "/home/k1tt3nz/ОП/training_repository-/main.c"
+},
+{
+  "directory": "/home/k1tt3nz/ОП/training_repository-/build/libs/algorithms",
+  "command": "/usr/bin/cc   -g -std=gnu11 -o CMakeFiles/algorithms.dir/algorithms.c.o -c /home/k1tt3nz/ОП/training_repository-/libs/algorithms/algorithms.c",
+  "file": "/home/k1tt3nz/ОП/training_repository-/libs/algorithms/algorithms.c"
+},
+{
+  "directory": "/home/k1tt3nz/ОП/training_repository-/build/libs/algorithms",
+  "command": "/usr/bin/cc   -g -std=gnu11 -o CMakeFiles/algorithms.dir/array/array.c.o -c /home/k1tt3nz/ОП/training_repository-/libs/algorithms/array/array.c",
+  "file": "/home/k1tt3nz/ОП/training_repository-/libs/algorithms/array/array.c"
+},
+{
+  "directory": "/home/k1tt3nz/ОП/training_repository-/build/libs/data_struct",
+  "command": "/usr/bin/cc   -g -std=gnu11 -o CMakeFiles/data_struct.dir/dsu/data_struct.c.o -c /home/k1tt3nz/ОП/training_repository-/libs/data_struct/dsu/data_struct.c",
+  "file": "/home/k1tt3nz/ОП/training_repository-/libs/data_struct/dsu/data_struct.c"
+},
+{
+  "directory": "/home/k1tt3nz/ОП/training_repository-/build/libs/data_struct",
+  "command": "/usr/bin/cc   -g -std=gnu11 -o CMakeFiles/data_struct.dir/dsu/point.c.o -c /home/k1tt3nz/ОП/training_repository-/libs/data_struct/dsu/point.c",
+  "file": "/home/k1tt3nz/ОП/training_repository-/libs/data_struct/dsu/point.c"
+},
+{
+  "directory": "/home/k1tt3nz/ОП/training_repository-/build/libs/data_struct",
+  "command": "/usr/bin/cc   -g -std=gnu11 -o CMakeFiles/data_struct.dir/dsu/vector.c.o -c /home/k1tt3nz/ОП/training_repository-/libs/data_struct/dsu/vector.c",
+  "file": "/home/k1tt3nz/ОП/training_repository-/libs/data_struct/dsu/vector.c"
+}
+]

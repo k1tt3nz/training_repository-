@@ -1,4 +1,4 @@
-# Install script for directory: /home/k1tt3nz/CLionProjects/untitled/libs
+# Install script for directory: /home/k1tt3nz/OP/all_labs_repeat/libs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,11 +44,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/libs/algorithms/cmake_install.cmake")
+  include("/home/k1tt3nz/OP/all_labs_repeat/cmake-build-debug/libs/algorithms/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/k1tt3nz/CLionProjects/untitled/cmake-build-debug/libs/data_struct/cmake_install.cmake")
+  include("/home/k1tt3nz/OP/all_labs_repeat/cmake-build-debug/libs/data_struct/cmake_install.cmake")
 endif()
 

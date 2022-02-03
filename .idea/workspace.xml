@@ -13,7 +13,51 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9891919b-23b9-4836-8ec0-e7d44bfb4ae5" name="Changes" comment="add vector.h/.c" />
+    <list default="true" id="9891919b-23b9-4836-8ec0-e7d44bfb4ae5" name="Changes" comment="add vector.h/.c">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b73af57f4bc6afeb4967.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-080219142a61fdc43c5a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-70d92801b4bd270ebd74.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-libs-Debug-ec580da4e47c3b0e73da.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-libs.algorithms-Debug-d1960ab8dcb67260df37.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-libs.data_struct-Debug-6dc04711a3091ba03427.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-02-01T21-18-59-0611.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-algorithms-Debug-ef27bb94a6fc18f1b24a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-course-Debug-369572f9777b1609f157.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-data_struct-Debug-c6640ec673f636f6fded.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/course" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/course" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libs/algorithms/CMakeFiles/algorithms.dir/algorithms.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libs/algorithms/CMakeFiles/algorithms.dir/algorithms.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libs/algorithms/CMakeFiles/algorithms.dir/array/array.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libs/algorithms/CMakeFiles/algorithms.dir/array/array.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libs/algorithms/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libs/algorithms/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libs/algorithms/libalgorithms.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libs/algorithms/libalgorithms.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libs/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libs/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libs/data_struct/CMakeFiles/data_struct.dir/dsu/data_struct.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libs/data_struct/CMakeFiles/data_struct.dir/dsu/data_struct.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libs/data_struct/CMakeFiles/data_struct.dir/dsu/point.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libs/data_struct/CMakeFiles/data_struct.dir/dsu/point.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libs/data_struct/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libs/data_struct/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libs/data_struct/libdata_struct.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libs/data_struct/libdata_struct.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/algorithms/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/algorithms/array/array.h" beforeDir="false" afterPath="$PROJECT_DIR$/libs/algorithms/array/array.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/data_struct/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/data_struct/dsu/data_struct.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/data_struct/dsu/data_struct.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/data_struct/dsu/point.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/data_struct/dsu/point.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/data_struct/dsu/vector.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/data_struct/dsu/vector.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,27 +111,17 @@
       <recent name="$PROJECT_DIR$/libs/algorithms/array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.course">
-    <configuration name="algorithms" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="course" TARGET_NAME="algorithms" CONFIG_NAME="Debug">
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all_labs_repeat" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="course" TARGET_NAME="all_labs_repeat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="course" RUN_TARGET_NAME="all_labs_repeat">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="course" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="course" TARGET_NAME="course" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="course" RUN_TARGET_NAME="course">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="data_struct" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="course" TARGET_NAME="data_struct" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="CMake Application.course" />
-      <item itemvalue="CMake Application.algorithms" />
-      <item itemvalue="CMake Application.data_struct" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -106,6 +140,7 @@
       <workItem from="1643750337580" duration="599000" />
       <workItem from="1643751402497" duration="3554000" />
       <workItem from="1643793708927" duration="457000" />
+      <workItem from="1643932291252" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="add vector.h/.c">
       <created>1643755277243</created>

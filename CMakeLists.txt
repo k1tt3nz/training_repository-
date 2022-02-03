@@ -3,8 +3,8 @@ project(course C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(course main.c)
+add_executable(all_labs_repeat main.c)
 
-add_subdirectory(libs)
-target_link_libraries(course algorithms)
-target_link_libraries(course data_struct)
+include_directories(libs/algorithms/array)
+include_directories(libs/data_structure/structure_point)
+include_directories(libs/data_structure/structure_vector)

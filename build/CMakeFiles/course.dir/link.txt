@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/course.dir/main.c.o -o course  libs/algorithms/libalgorithms.a libs/data_struct/libdata_struct.a 

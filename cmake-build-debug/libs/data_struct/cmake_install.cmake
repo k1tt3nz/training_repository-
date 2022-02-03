@@ -1,4 +1,4 @@
-# Install script for directory: /home/k1tt3nz/CLionProjects/untitled/libs/data_struct
+# Install script for directory: /home/k1tt3nz/OP/all_labs_repeat/libs/data_struct
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

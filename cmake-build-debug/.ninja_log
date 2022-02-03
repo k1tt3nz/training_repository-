@@ -5,5 +5,4 @@
 50	94	1643058353376804534	libs/data_struct/libdata_struct.a	2cc3b2f1c081b8a
 94	118	1643058353403471834	course	a2863be2a32b4611
 1	43	1642943393816012170	libs/algorithms/CMakeFiles/algorithms.dir/algorithms.c.o	83a2d7a32e28f9a3
-0	31	1643058353316803107	CMakeFiles/course.dir/main.c.o	72aacf1948a99fbe
 1	49	1643058353333470170	libs/data_struct/CMakeFiles/data_struct.dir/dsu/point.c.o	c714b404fe3b6b2a

@@ -1,0 +1,11 @@
+/home/k1tt3nz/ОП/training_repository-/build/CMakeFiles/course.dir
+/home/k1tt3nz/ОП/training_repository-/build/CMakeFiles/edit_cache.dir
+/home/k1tt3nz/ОП/training_repository-/build/CMakeFiles/rebuild_cache.dir
+/home/k1tt3nz/ОП/training_repository-/build/libs/CMakeFiles/edit_cache.dir
+/home/k1tt3nz/ОП/training_repository-/build/libs/CMakeFiles/rebuild_cache.dir
+/home/k1tt3nz/ОП/training_repository-/build/libs/algorithms/CMakeFiles/algorithms.dir
+/home/k1tt3nz/ОП/training_repository-/build/libs/algorithms/CMakeFiles/edit_cache.dir
+/home/k1tt3nz/ОП/training_repository-/build/libs/algorithms/CMakeFiles/rebuild_cache.dir
+/home/k1tt3nz/ОП/training_repository-/build/libs/data_struct/CMakeFiles/data_struct.dir
+/home/k1tt3nz/ОП/training_repository-/build/libs/data_struct/CMakeFiles/edit_cache.dir
+/home/k1tt3nz/ОП/training_repository-/build/libs/data_struct/CMakeFiles/rebuild_cache.dir

@@ -51,4 +51,7 @@ void selectionSort(int *array, const size_t size);
 void insertionSort(int *array, const size_t size);
 
 void bubbleSort(int *array, const size_t size);
+
+#include "array.c"
+
 #endif //INC_ARRAY_H

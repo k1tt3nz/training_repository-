@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdata_struct.a CMakeFiles/data_struct.dir/dsu/data_struct.c.o CMakeFiles/data_struct.dir/dsu/point.c.o CMakeFiles/data_struct.dir/dsu/vector.c.o
+/usr/bin/ranlib libdata_struct.a

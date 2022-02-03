@@ -1,0 +1,2 @@
+/usr/bin/ar qc libalgorithms.a CMakeFiles/algorithms.dir/algorithms.c.o CMakeFiles/algorithms.dir/array/array.c.o
+/usr/bin/ranlib libalgorithms.a

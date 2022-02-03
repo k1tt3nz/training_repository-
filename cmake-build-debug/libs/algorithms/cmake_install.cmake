@@ -1,4 +1,4 @@
-# Install script for directory: /home/k1tt3nz/CLionProjects/untitled/libs/algorithms
+# Install script for directory: /home/k1tt3nz/OP/all_labs_repeat/libs/algorithms
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
